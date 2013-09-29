@@ -13,7 +13,10 @@
   "engines": {
     "node": "0.10.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "uuid": "~1.4.1",
+    "eventemitter3": "0.0.0"
+  },
   "devDependencies": {
     "tape": "~1.0.2"
   },
