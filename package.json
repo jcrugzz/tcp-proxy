@@ -1,0 +1,21 @@
+{
+  "name": "tcp-proxy",
+  "description": "A simple TCP proxy using node.js based on the work of node-http-proxy",
+  "version": "0.0.0",
+  "author": "Jarrett Cruger <jcrugzz@gmail.com>",
+  "repository": {
+    "url": "git://github.com/jcrugzz/tcp-proxy.git"
+  },
+  "main": "./lib/tcp-proxy.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.2"
+  },
+  "license": "MIT"
+}
