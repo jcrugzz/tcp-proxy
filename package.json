@@ -18,7 +18,8 @@
     "eventemitter3": "0.0.0"
   },
   "devDependencies": {
-    "tap": "~0.4.4"
+    "tap": "~0.4.4",
+    "concat-stream": "~1.0.1"
   },
   "license": "MIT"
 }
