@@ -12,6 +12,7 @@ var data = 'Hello\n',
 
 test('test a simple proxy', function (t) {
   t.plan(3);
+
   var server,
       proxyServer,
       socket;
