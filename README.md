@@ -1,5 +1,7 @@
 # tcp-proxy
 
+[![build status](https://secure.travis-ci.org/jcrugzz/tcp-proxy.png)](http://travis-ci.org/jcrugzz/tcp-proxy)
+
 Exactly what you would expect, a simple tcp proxy written in node. Inspiration
 from [`node-http-proxy`][http-proxy].
 
